@@ -1,5 +1,5 @@
 # HiMoveIt
-* 🧑🏻‍💻 Coders High [iOS App Design to Develop Course](https://codershigh.github.io/StudentReports/data/kwu/19_01/12/index.html) 프로젝트
+* 📱 Coders High [iOS App Design to Develop Course](https://codershigh.github.io/StudentReports/data/kwu/19_01/12/index.html) 프로젝트
 * 🏆 NAVER D2 [CAMPUS FEST](http://d2campusfest.kr/7th/) 출품작
 
 ## 주제
