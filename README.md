@@ -8,9 +8,7 @@
 ## 함께하는 개발자
 
 [KyungHoon Kang](https://github.com/KangKyung)
-
 [Jaewan Jeong](https://github.com/jwmsg0525)
-
 [SeongSu Oh](https://github.com/oss5824)
 
 ## 구현 사항 
