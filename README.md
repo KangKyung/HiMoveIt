@@ -8,8 +8,8 @@
 ## 함께하는 개발자
 
 [KyungHoon Kang](https://github.com/KangKyung)
-[Jaewan Jeong](https://github.com/jwmsg0525)
-[SeongSu Oh](https://github.com/oss5824)
+<br>[Jaewan Jeong](https://github.com/jwmsg0525)
+<br>[SeongSu Oh](https://github.com/oss5824)
 
 ## 구현 사항 
 - 사용자가 시네마 그래프(사진, 혹은 영상)을 촬영하고, 생성한 미디어 파일을 볼 수 있는 기능이 포함되어야 함
