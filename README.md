@@ -1,6 +1,6 @@
 # HiMoveIt
 * 🧑🏻‍💻 Coders High [iOS App Design to Develop Course](https://codershigh.github.io/StudentReports/data/kwu/19_01/12/index.html) 프로젝트
-* 🧑🏻‍💻[네이버 D2 Campus Fest](http://d2campusfest.kr/7th/) 출품작
+* 🏆 NAVER D2 [CAMPUS FEST](http://d2campusfest.kr/7th/) 출품작
 
 ## 주제
 사진 전문가가 아니더라도, 손쉽게 [시네마 그래프](https://en.wikipedia.org/wiki/Cinemagraph) 콘텐츠를 만들 수 있는 앱
