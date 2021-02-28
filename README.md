@@ -6,6 +6,7 @@
 사진 전문가가 아니더라도, 손쉽게 시네마 그래프 콘텐츠를 만들 수 있는 앱
 
 ## 함께하는 개발자
+
 [KyungHoon Kang](https://github.com/KangKyung)
 [Jaewan Jeong](https://github.com/jwmsg0525)
 [SeongSu Oh](https://github.com/oss5824)
