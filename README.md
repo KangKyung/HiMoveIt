@@ -1,6 +1,6 @@
 # HiMoveIt
-사진 전문가가 아니더라도 손쉽게 시네마 그래프 콘텐츠를 만들 수 있는 앱으로,
-[네이버 D2 Campus Fest](http://d2campusfest.kr/7th/)에 공모를 동시에 진행할 예정 입니다.
+* 사진 전문가가 아니더라도 손쉽게 시네마 그래프 콘텐츠를 만들 수 있는 앱
+* [네이버 D2 Campus Fest](http://d2campusfest.kr/7th/)
 
 ## 함께하는 개발자
 
@@ -8,7 +8,7 @@ Jaewan Jeong    (@jwmsg0525)<br>
 SeongSu Oh      (@oss5824)<br>
 KyungHoon Kang  (@KangKyung)<br>
 
-## 구현에 대한 D2의 설명
+## 구현에 대한 설명
     
     [필수 구현 사항] 
     - 사용자가 시네마 그래프(사진, 혹은 영상)을 촬영하고, 생성한 미디어 파일을 볼 수 있는 기능이 포함되어야 함
